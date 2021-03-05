@@ -1,0 +1,61 @@
+statsmodels.discrete.discrete\_model.NegativeBinomialResults
+============================================================
+
+.. currentmodule:: statsmodels.discrete.discrete_model
+
+.. autoclass:: NegativeBinomialResults
+   :exclude-members:
+
+   
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+      :toctree: generated/
+
+      ~NegativeBinomialResults.aic
+      ~NegativeBinomialResults.bic
+      ~NegativeBinomialResults.bse
+      ~NegativeBinomialResults.conf_int
+      ~NegativeBinomialResults.cov_params
+      ~NegativeBinomialResults.f_test
+      ~NegativeBinomialResults.fittedvalues
+      ~NegativeBinomialResults.get_margeff
+      ~NegativeBinomialResults.initialize
+      ~NegativeBinomialResults.llf
+      ~NegativeBinomialResults.llnull
+      ~NegativeBinomialResults.llr
+      ~NegativeBinomialResults.llr_pvalue
+      ~NegativeBinomialResults.lnalpha
+      ~NegativeBinomialResults.lnalpha_std_err
+      ~NegativeBinomialResults.load
+      ~NegativeBinomialResults.normalized_cov_params
+      ~NegativeBinomialResults.predict
+      ~NegativeBinomialResults.prsquared
+      ~NegativeBinomialResults.pvalues
+      ~NegativeBinomialResults.remove_data
+      ~NegativeBinomialResults.resid
+      ~NegativeBinomialResults.resid_response
+      ~NegativeBinomialResults.save
+      ~NegativeBinomialResults.set_null_options
+      ~NegativeBinomialResults.summary
+      ~NegativeBinomialResults.summary2
+      ~NegativeBinomialResults.t_test
+      ~NegativeBinomialResults.t_test_pairwise
+      ~NegativeBinomialResults.tvalues
+      ~NegativeBinomialResults.wald_test
+      ~NegativeBinomialResults.wald_test_terms
+   
+   
+   
+   
+   
+   .. rubric:: Properties
+
+   .. autosummary::
+      :toctree: generated/
+
+      ~NegativeBinomialResults.use_t
+   
+   
+   

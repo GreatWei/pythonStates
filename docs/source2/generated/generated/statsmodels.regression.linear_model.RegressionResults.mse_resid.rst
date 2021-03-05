@@ -1,0 +1,8 @@
+:orphan:
+
+statsmodels.regression.linear\_model.RegressionResults.mse\_resid
+=================================================================
+
+.. currentmodule:: statsmodels.regression.linear_model
+
+.. automethod:: RegressionResults.mse_resid

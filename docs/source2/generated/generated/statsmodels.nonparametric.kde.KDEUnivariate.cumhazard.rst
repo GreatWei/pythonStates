@@ -1,0 +1,8 @@
+:orphan:
+
+statsmodels.nonparametric.kde.KDEUnivariate.cumhazard
+=====================================================
+
+.. currentmodule:: statsmodels.nonparametric.kde
+
+.. automethod:: KDEUnivariate.cumhazard

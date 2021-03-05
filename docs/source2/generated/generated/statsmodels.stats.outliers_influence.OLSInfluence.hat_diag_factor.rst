@@ -1,0 +1,8 @@
+:orphan:
+
+statsmodels.stats.outliers\_influence.OLSInfluence.hat\_diag\_factor
+====================================================================
+
+.. currentmodule:: statsmodels.stats.outliers_influence
+
+.. automethod:: OLSInfluence.hat_diag_factor

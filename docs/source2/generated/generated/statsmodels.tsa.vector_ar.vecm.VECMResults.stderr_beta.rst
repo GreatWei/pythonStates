@@ -1,0 +1,8 @@
+:orphan:
+
+statsmodels.tsa.vector\_ar.vecm.VECMResults.stderr\_beta
+========================================================
+
+.. currentmodule:: statsmodels.tsa.vector_ar.vecm
+
+.. automethod:: VECMResults.stderr_beta

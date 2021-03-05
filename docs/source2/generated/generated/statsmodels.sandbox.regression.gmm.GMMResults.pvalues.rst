@@ -1,0 +1,8 @@
+:orphan:
+
+statsmodels.sandbox.regression.gmm.GMMResults.pvalues
+=====================================================
+
+.. currentmodule:: statsmodels.sandbox.regression.gmm
+
+.. automethod:: GMMResults.pvalues

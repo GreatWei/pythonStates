@@ -1,0 +1,8 @@
+:orphan:
+
+statsmodels.regression.quantile\_regression.QuantRegResults.resid\_pearson
+==========================================================================
+
+.. currentmodule:: statsmodels.regression.quantile_regression
+
+.. automethod:: QuantRegResults.resid_pearson

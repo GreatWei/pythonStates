@@ -1,0 +1,8 @@
+:orphan:
+
+statsmodels.discrete.discrete\_model.CountResults.llr\_pvalue
+=============================================================
+
+.. currentmodule:: statsmodels.discrete.discrete_model
+
+.. automethod:: CountResults.llr_pvalue

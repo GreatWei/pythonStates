@@ -1,0 +1,8 @@
+:orphan:
+
+statsmodels.nonparametric.kde.KDEUnivariate.icdf
+================================================
+
+.. currentmodule:: statsmodels.nonparametric.kde
+
+.. automethod:: KDEUnivariate.icdf

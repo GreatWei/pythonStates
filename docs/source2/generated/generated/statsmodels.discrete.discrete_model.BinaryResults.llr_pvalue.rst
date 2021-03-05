@@ -1,0 +1,8 @@
+:orphan:
+
+statsmodels.discrete.discrete\_model.BinaryResults.llr\_pvalue
+==============================================================
+
+.. currentmodule:: statsmodels.discrete.discrete_model
+
+.. automethod:: BinaryResults.llr_pvalue

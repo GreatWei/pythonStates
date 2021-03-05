@@ -1,0 +1,8 @@
+:orphan:
+
+statsmodels.graphics.gofplots.ProbPlot.sample\_percentiles
+==========================================================
+
+.. currentmodule:: statsmodels.graphics.gofplots
+
+.. automethod:: ProbPlot.sample_percentiles

@@ -1,0 +1,8 @@
+:orphan:
+
+statsmodels.regression.linear\_model.OLSResults.HC3\_se
+=======================================================
+
+.. currentmodule:: statsmodels.regression.linear_model
+
+.. automethod:: OLSResults.HC3_se

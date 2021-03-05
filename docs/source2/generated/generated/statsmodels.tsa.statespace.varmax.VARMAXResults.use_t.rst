@@ -1,0 +1,8 @@
+:orphan:
+
+statsmodels.tsa.statespace.varmax.VARMAXResults.use\_t
+======================================================
+
+.. currentmodule:: statsmodels.tsa.statespace.varmax
+
+.. autoattribute:: VARMAXResults.use_t

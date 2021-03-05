@@ -1,0 +1,8 @@
+:orphan:
+
+statsmodels.discrete.discrete\_model.NegativeBinomialResults.bic
+================================================================
+
+.. currentmodule:: statsmodels.discrete.discrete_model
+
+.. automethod:: NegativeBinomialResults.bic

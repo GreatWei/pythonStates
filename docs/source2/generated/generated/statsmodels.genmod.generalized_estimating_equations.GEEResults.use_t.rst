@@ -1,0 +1,8 @@
+:orphan:
+
+statsmodels.genmod.generalized\_estimating\_equations.GEEResults.use\_t
+=======================================================================
+
+.. currentmodule:: statsmodels.genmod.generalized_estimating_equations
+
+.. autoattribute:: GEEResults.use_t

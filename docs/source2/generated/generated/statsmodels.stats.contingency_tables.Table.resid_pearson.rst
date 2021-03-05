@@ -1,0 +1,8 @@
+:orphan:
+
+statsmodels.stats.contingency\_tables.Table.resid\_pearson
+==========================================================
+
+.. currentmodule:: statsmodels.stats.contingency_tables
+
+.. automethod:: Table.resid_pearson

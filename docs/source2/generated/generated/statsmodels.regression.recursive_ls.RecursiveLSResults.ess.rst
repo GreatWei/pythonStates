@@ -1,0 +1,8 @@
+:orphan:
+
+statsmodels.regression.recursive\_ls.RecursiveLSResults.ess
+===========================================================
+
+.. currentmodule:: statsmodels.regression.recursive_ls
+
+.. automethod:: RecursiveLSResults.ess

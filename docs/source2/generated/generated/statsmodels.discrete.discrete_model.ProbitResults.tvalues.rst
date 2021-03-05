@@ -1,0 +1,8 @@
+:orphan:
+
+statsmodels.discrete.discrete\_model.ProbitResults.tvalues
+==========================================================
+
+.. currentmodule:: statsmodels.discrete.discrete_model
+
+.. automethod:: ProbitResults.tvalues

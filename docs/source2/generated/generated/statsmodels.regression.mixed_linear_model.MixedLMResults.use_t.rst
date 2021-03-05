@@ -1,0 +1,8 @@
+:orphan:
+
+statsmodels.regression.mixed\_linear\_model.MixedLMResults.use\_t
+=================================================================
+
+.. currentmodule:: statsmodels.regression.mixed_linear_model
+
+.. autoattribute:: MixedLMResults.use_t

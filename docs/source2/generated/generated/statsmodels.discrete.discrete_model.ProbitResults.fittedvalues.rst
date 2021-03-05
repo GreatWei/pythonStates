@@ -1,0 +1,8 @@
+:orphan:
+
+statsmodels.discrete.discrete\_model.ProbitResults.fittedvalues
+===============================================================
+
+.. currentmodule:: statsmodels.discrete.discrete_model
+
+.. automethod:: ProbitResults.fittedvalues

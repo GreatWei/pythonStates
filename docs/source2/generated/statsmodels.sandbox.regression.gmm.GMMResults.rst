@@ -1,0 +1,54 @@
+statsmodels.sandbox.regression.gmm.GMMResults
+=============================================
+
+.. currentmodule:: statsmodels.sandbox.regression.gmm
+
+.. autoclass:: GMMResults
+   :exclude-members:
+
+   
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+      :toctree: generated/
+
+      ~GMMResults.bse
+      ~GMMResults.calc_cov_params
+      ~GMMResults.compare_j
+      ~GMMResults.conf_int
+      ~GMMResults.cov_params
+      ~GMMResults.f_test
+      ~GMMResults.get_bse
+      ~GMMResults.initialize
+      ~GMMResults.jtest
+      ~GMMResults.jval
+      ~GMMResults.llf
+      ~GMMResults.load
+      ~GMMResults.normalized_cov_params
+      ~GMMResults.predict
+      ~GMMResults.pvalues
+      ~GMMResults.q
+      ~GMMResults.remove_data
+      ~GMMResults.save
+      ~GMMResults.summary
+      ~GMMResults.t_test
+      ~GMMResults.t_test_pairwise
+      ~GMMResults.tvalues
+      ~GMMResults.wald_test
+      ~GMMResults.wald_test_terms
+   
+   
+   
+   
+   
+   .. rubric:: Properties
+
+   .. autosummary::
+      :toctree: generated/
+
+      ~GMMResults.bse_
+      ~GMMResults.use_t
+   
+   
+   

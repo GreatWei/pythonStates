@@ -1,0 +1,8 @@
+:orphan:
+
+statsmodels.base.model.ResultMixin.df\_modelwc
+==============================================
+
+.. currentmodule:: statsmodels.base.model
+
+.. automethod:: ResultMixin.df_modelwc

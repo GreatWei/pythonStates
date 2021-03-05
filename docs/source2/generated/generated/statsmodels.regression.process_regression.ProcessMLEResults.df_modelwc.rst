@@ -1,0 +1,8 @@
+:orphan:
+
+statsmodels.regression.process\_regression.ProcessMLEResults.df\_modelwc
+========================================================================
+
+.. currentmodule:: statsmodels.regression.process_regression
+
+.. automethod:: ProcessMLEResults.df_modelwc

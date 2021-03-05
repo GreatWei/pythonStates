@@ -1,0 +1,8 @@
+:orphan:
+
+statsmodels.stats.contingency\_tables.StratifiedTable.logodds\_pooled
+=====================================================================
+
+.. currentmodule:: statsmodels.stats.contingency_tables
+
+.. automethod:: StratifiedTable.logodds_pooled

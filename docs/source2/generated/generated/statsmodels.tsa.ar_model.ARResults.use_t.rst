@@ -1,0 +1,8 @@
+:orphan:
+
+statsmodels.tsa.ar\_model.ARResults.use\_t
+==========================================
+
+.. currentmodule:: statsmodels.tsa.ar_model
+
+.. autoattribute:: ARResults.use_t

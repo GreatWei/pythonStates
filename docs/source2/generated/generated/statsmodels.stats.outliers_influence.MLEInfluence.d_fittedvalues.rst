@@ -1,0 +1,8 @@
+:orphan:
+
+statsmodels.stats.outliers\_influence.MLEInfluence.d\_fittedvalues
+==================================================================
+
+.. currentmodule:: statsmodels.stats.outliers_influence
+
+.. automethod:: MLEInfluence.d_fittedvalues

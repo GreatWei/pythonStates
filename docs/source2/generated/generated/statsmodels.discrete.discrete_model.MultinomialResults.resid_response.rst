@@ -1,0 +1,8 @@
+:orphan:
+
+statsmodels.discrete.discrete\_model.MultinomialResults.resid\_response
+=======================================================================
+
+.. currentmodule:: statsmodels.discrete.discrete_model
+
+.. automethod:: MultinomialResults.resid_response

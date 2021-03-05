@@ -1,0 +1,8 @@
+:orphan:
+
+statsmodels.discrete.discrete\_model.ProbitResults.resid\_dev
+=============================================================
+
+.. currentmodule:: statsmodels.discrete.discrete_model
+
+.. automethod:: ProbitResults.resid_dev

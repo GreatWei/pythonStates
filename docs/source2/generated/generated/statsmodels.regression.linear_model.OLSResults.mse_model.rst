@@ -1,0 +1,8 @@
+:orphan:
+
+statsmodels.regression.linear\_model.OLSResults.mse\_model
+==========================================================
+
+.. currentmodule:: statsmodels.regression.linear_model
+
+.. automethod:: OLSResults.mse_model

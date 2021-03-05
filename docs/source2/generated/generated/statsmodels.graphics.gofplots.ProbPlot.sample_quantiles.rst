@@ -1,0 +1,8 @@
+:orphan:
+
+statsmodels.graphics.gofplots.ProbPlot.sample\_quantiles
+========================================================
+
+.. currentmodule:: statsmodels.graphics.gofplots
+
+.. automethod:: ProbPlot.sample_quantiles

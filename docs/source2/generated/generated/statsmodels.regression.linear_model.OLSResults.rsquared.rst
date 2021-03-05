@@ -1,0 +1,8 @@
+:orphan:
+
+statsmodels.regression.linear\_model.OLSResults.rsquared
+========================================================
+
+.. currentmodule:: statsmodels.regression.linear_model
+
+.. automethod:: OLSResults.rsquared

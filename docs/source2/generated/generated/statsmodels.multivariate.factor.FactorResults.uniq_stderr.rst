@@ -1,0 +1,8 @@
+:orphan:
+
+statsmodels.multivariate.factor.FactorResults.uniq\_stderr
+==========================================================
+
+.. currentmodule:: statsmodels.multivariate.factor
+
+.. automethod:: FactorResults.uniq_stderr

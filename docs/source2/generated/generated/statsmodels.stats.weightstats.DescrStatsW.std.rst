@@ -1,0 +1,8 @@
+:orphan:
+
+statsmodels.stats.weightstats.DescrStatsW.std
+=============================================
+
+.. currentmodule:: statsmodels.stats.weightstats
+
+.. automethod:: DescrStatsW.std

@@ -1,0 +1,8 @@
+:orphan:
+
+statsmodels.tsa.vector\_ar.var\_model.VARResults.tvalues\_dt
+============================================================
+
+.. currentmodule:: statsmodels.tsa.vector_ar.var_model
+
+.. automethod:: VARResults.tvalues_dt

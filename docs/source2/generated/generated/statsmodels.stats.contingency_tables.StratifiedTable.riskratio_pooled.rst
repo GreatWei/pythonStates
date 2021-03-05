@@ -1,0 +1,8 @@
+:orphan:
+
+statsmodels.stats.contingency\_tables.StratifiedTable.riskratio\_pooled
+=======================================================================
+
+.. currentmodule:: statsmodels.stats.contingency_tables
+
+.. automethod:: StratifiedTable.riskratio_pooled

@@ -1,0 +1,8 @@
+:orphan:
+
+statsmodels.nonparametric.kde.KDEUnivariate.sf
+==============================================
+
+.. currentmodule:: statsmodels.nonparametric.kde
+
+.. automethod:: KDEUnivariate.sf

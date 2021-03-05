@@ -1,0 +1,8 @@
+:orphan:
+
+statsmodels.tsa.arima\_model.ARMAResults.pvalues
+================================================
+
+.. currentmodule:: statsmodels.tsa.arima_model
+
+.. automethod:: ARMAResults.pvalues

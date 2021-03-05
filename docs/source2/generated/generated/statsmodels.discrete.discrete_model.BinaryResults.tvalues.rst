@@ -1,0 +1,8 @@
+:orphan:
+
+statsmodels.discrete.discrete\_model.BinaryResults.tvalues
+==========================================================
+
+.. currentmodule:: statsmodels.discrete.discrete_model
+
+.. automethod:: BinaryResults.tvalues

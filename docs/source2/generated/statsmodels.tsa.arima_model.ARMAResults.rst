@@ -1,0 +1,61 @@
+statsmodels.tsa.arima\_model.ARMAResults
+========================================
+
+.. currentmodule:: statsmodels.tsa.arima_model
+
+.. autoclass:: ARMAResults
+   :exclude-members:
+
+   
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+      :toctree: generated/
+
+      ~ARMAResults.aic
+      ~ARMAResults.arfreq
+      ~ARMAResults.arparams
+      ~ARMAResults.arroots
+      ~ARMAResults.bic
+      ~ARMAResults.bse
+      ~ARMAResults.conf_int
+      ~ARMAResults.cov_params
+      ~ARMAResults.f_test
+      ~ARMAResults.fittedvalues
+      ~ARMAResults.forecast
+      ~ARMAResults.hqic
+      ~ARMAResults.initialize
+      ~ARMAResults.llf
+      ~ARMAResults.load
+      ~ARMAResults.mafreq
+      ~ARMAResults.maparams
+      ~ARMAResults.maroots
+      ~ARMAResults.normalized_cov_params
+      ~ARMAResults.plot_predict
+      ~ARMAResults.predict
+      ~ARMAResults.pvalues
+      ~ARMAResults.remove_data
+      ~ARMAResults.resid
+      ~ARMAResults.save
+      ~ARMAResults.summary
+      ~ARMAResults.summary2
+      ~ARMAResults.t_test
+      ~ARMAResults.t_test_pairwise
+      ~ARMAResults.tvalues
+      ~ARMAResults.wald_test
+      ~ARMAResults.wald_test_terms
+   
+   
+   
+   
+   
+   .. rubric:: Properties
+
+   .. autosummary::
+      :toctree: generated/
+
+      ~ARMAResults.use_t
+   
+   
+   

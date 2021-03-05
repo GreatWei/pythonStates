@@ -1,0 +1,8 @@
+:orphan:
+
+statsmodels.regression.quantile\_regression.QuantRegResults.HC1\_se
+===================================================================
+
+.. currentmodule:: statsmodels.regression.quantile_regression
+
+.. automethod:: QuantRegResults.HC1_se

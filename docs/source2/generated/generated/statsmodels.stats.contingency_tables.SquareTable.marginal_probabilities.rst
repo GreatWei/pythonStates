@@ -1,0 +1,8 @@
+:orphan:
+
+statsmodels.stats.contingency\_tables.SquareTable.marginal\_probabilities
+=========================================================================
+
+.. currentmodule:: statsmodels.stats.contingency_tables
+
+.. automethod:: SquareTable.marginal_probabilities

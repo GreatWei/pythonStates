@@ -1,0 +1,8 @@
+:orphan:
+
+statsmodels.tsa.ar\_model.ARResults.aic
+=======================================
+
+.. currentmodule:: statsmodels.tsa.ar_model
+
+.. automethod:: ARResults.aic

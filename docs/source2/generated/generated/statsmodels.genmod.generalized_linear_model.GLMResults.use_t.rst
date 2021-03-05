@@ -1,0 +1,8 @@
+:orphan:
+
+statsmodels.genmod.generalized\_linear\_model.GLMResults.use\_t
+===============================================================
+
+.. currentmodule:: statsmodels.genmod.generalized_linear_model
+
+.. autoattribute:: GLMResults.use_t

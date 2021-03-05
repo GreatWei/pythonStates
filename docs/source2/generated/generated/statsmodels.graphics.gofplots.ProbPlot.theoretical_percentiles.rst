@@ -1,0 +1,8 @@
+:orphan:
+
+statsmodels.graphics.gofplots.ProbPlot.theoretical\_percentiles
+===============================================================
+
+.. currentmodule:: statsmodels.graphics.gofplots
+
+.. automethod:: ProbPlot.theoretical_percentiles

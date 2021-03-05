@@ -1,0 +1,8 @@
+:orphan:
+
+statsmodels.stats.outliers\_influence.OLSInfluence.ess\_press
+=============================================================
+
+.. currentmodule:: statsmodels.stats.outliers_influence
+
+.. automethod:: OLSInfluence.ess_press

@@ -1,0 +1,8 @@
+:orphan:
+
+statsmodels.stats.contingency\_tables.SquareTable.standardized\_resids
+======================================================================
+
+.. currentmodule:: statsmodels.stats.contingency_tables
+
+.. automethod:: SquareTable.standardized_resids

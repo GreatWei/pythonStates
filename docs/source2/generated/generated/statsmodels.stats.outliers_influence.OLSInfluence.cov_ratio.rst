@@ -1,0 +1,8 @@
+:orphan:
+
+statsmodels.stats.outliers\_influence.OLSInfluence.cov\_ratio
+=============================================================
+
+.. currentmodule:: statsmodels.stats.outliers_influence
+
+.. automethod:: OLSInfluence.cov_ratio

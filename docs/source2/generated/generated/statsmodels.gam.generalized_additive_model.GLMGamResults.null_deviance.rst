@@ -1,0 +1,8 @@
+:orphan:
+
+statsmodels.gam.generalized\_additive\_model.GLMGamResults.null\_deviance
+=========================================================================
+
+.. currentmodule:: statsmodels.gam.generalized_additive_model
+
+.. automethod:: GLMGamResults.null_deviance
