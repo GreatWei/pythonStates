@@ -21,8 +21,8 @@ import matplotlib.pyplot as plt
 # NBER 经济衰退
 from pandas_datareader.data import DataReader
 from datetime import datetime
-usrec = DataReader(
-    'USREC', 'fred', start=datetime(1947, 1, 1), end=datetime(2013, 4, 1))
+# usrec = DataReader(
+#     'USREC', 'fred', start=datetime(1947, 1, 1), end=datetime(2013, 4, 1))
 
 # ### 带有转换截距的联邦基金利率
 # 第一个示例将联邦基金利率建模为固定截距周围的噪声，但截距在不同政权下会发生变化。 该模型很简单：
@@ -50,20 +50,20 @@ dta_fedfunds = pd.Series(
 
 # 绘图
 dta_fedfunds.plot(title='Federal funds rate', figsize=(12, 3))
-
+# plt.show()
 # 拟合模型
 # (切换均值是 MarkovRegession 模型的默认值)
 mod_fedfunds = sm.tsa.MarkovRegression(dta_fedfunds, k_regimes=2)
 res_fedfunds = mod_fedfunds.fit()
 
-res_fedfunds.summary()
-
+summary = res_fedfunds.summary()
+print(summary)
 # 从 summary 的输出来看，第一个政权（“低政权”）的平均联邦资金利率估计为3.7美元，而在“高政权”中为9.6美元。 
 # 下面我们绘制处于高政权的平滑概率。 该模型表明，1980 年代是联邦基金利率高企的时期。
 
 
 res_fedfunds.smoothed_marginal_probabilities[1].plot(
-    title='Probability of being in the high regime', figsize=(12, 3))
+    title='Probability of being in the high regime1', figsize=(12, 3))
 
 # 从估计的过渡矩阵中，我们可以计算出低状态与高状态的预期持续时间。
 
@@ -104,7 +104,7 @@ res_fedfunds2.summary()
 # 检查“高政权”的平滑概率，我们现在看到更多的可变性。
 
 res_fedfunds2.smoothed_marginal_probabilities[0].plot(
-    title='Probability of being in the high regime', figsize=(12, 3))
+    title='Probability of being in the high regime2', figsize=(12, 3))
 
 # 最后，每个政权的预期持续时间已大大减少。
 
@@ -149,15 +149,15 @@ fig, axes = plt.subplots(3, figsize=(10, 7))
 
 ax = axes[0]
 ax.plot(res_fedfunds4.smoothed_marginal_probabilities[0])
-ax.set(title='Smoothed probability of a low-interest rate regime')
+ax.set(title='Smoothed probability of a low-interest rate regime3')
 
 ax = axes[1]
 ax.plot(res_fedfunds4.smoothed_marginal_probabilities[1])
-ax.set(title='Smoothed probability of a medium-interest rate regime')
+ax.set(title='Smoothed probability of a medium-interest rate regime4')
 
 ax = axes[2]
 ax.plot(res_fedfunds4.smoothed_marginal_probabilities[2])
-ax.set(title='Smoothed probability of a high-interest rate regime')
+ax.set(title='Smoothed probability of a high-interest rate regime5')
 
 fig.tight_layout()
 
@@ -198,4 +198,7 @@ res_areturns.summary()
 
 
 res_areturns.smoothed_marginal_probabilities[0].plot(
-    title='Probability of being in a low-variance regime', figsize=(12, 3))
+    title='Probability of being in a low-variance regime6', figsize=(12, 3))
+
+
+plt.show()
